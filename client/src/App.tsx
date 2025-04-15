@@ -29,10 +29,9 @@ function App() {
   if (error) return <p>Error : {error.message}</p>;
   return (
     <div>
-      <h1>WASSSSSUUUUUUUUUp</h1>
       <Header>
         <Container>
-          <h1>Wilders Book with CD</h1>
+          <h1>TOTOTOTOTOTOOT</h1>
         </Container>
       </Header>
       <Container>
