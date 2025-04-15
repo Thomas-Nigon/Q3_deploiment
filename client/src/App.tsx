@@ -31,7 +31,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>test push after restarting container manually</h1>
+          <h1>IS IT WORKING ?</h1>
         </Container>
       </Header>
       <Container>
