@@ -32,6 +32,7 @@ function App() {
       <Header>
         <Container>
           <h1>IS IT WORKING ?</h1>
+          <h2>yes of course !</h2>
         </Container>
       </Header>
       <Container>
